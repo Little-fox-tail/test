@@ -1,4 +1,4 @@
-# 不好使
+# 不好
 import cv2
 import numpy as np
 import os
